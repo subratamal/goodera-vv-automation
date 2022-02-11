@@ -1,0 +1,27 @@
+{
+  "eventName": "Test Event SM_001",
+  "startTimeStamp": "2022-01-25T05:30:00.000Z",
+  "endTimeStamp": "2022-01-30T06:30:00.000Z",
+  "languages": "ENG",
+  "eventTags": ["OP", "PI", "TS"],
+  "timezone": "Asia/Kolkata",
+  "countries": ["IN"],
+  "timeTrackingLink": "",
+  "notes": "",
+  "partner": "612329cf14c7210012ee1aae",
+  "opportunity": "61ee9f30f298660ad2eb9f73",
+  "linkType": "External",
+  "platformOppId": null,
+  "expectedVolunteerCount": "10",
+  "invitedEmcees": [],
+  "emcees": ["60a666652efc2700118eda56"],
+  "videoMeetingDetails": {
+    "mode": "ZOOM",
+    "meetingUrl": "https://us02web.zoom.us/j/84968888789?pwd=QUZ0enpyeXdsa1pOS0c2RkNaWlVBUT09",
+    "passcode": "goodera",
+    "zoomMeeting": "61ec4fc5e459d0001154068a",
+    "webexMeeting": null,
+    "microsoftMeeting": null
+  },
+  "registrations": ["subrata.mal@goodera.com"]
+}

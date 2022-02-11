@@ -1,0 +1,32 @@
+{
+  "name": "Test Event SM_001",
+  "eventLabel": "TEAM_BASED",
+  "type": "AUDIOBOOK",
+  "organization": "6123298d90e3d100119cf840",
+  "countries": ["IN"],
+  "partner": "612329cf14c7210012ee1aae",
+  "duration": "10",
+  "championsEnabled": true,
+  "minVolunteers": "10",
+  "maxVolunteers": "100",
+  "description": "This is the sample event desc.",
+  "preRequisites": "",
+  "expectedImpact": "",
+  "causes": ["HLTH"],
+  "beneficiaries": ["ADUL", "ADOL"],
+  "itinerary": [
+    {
+      "duration": "5",
+      "title": "Itinerary 001",
+      "description": "Itinerary 001 desc"
+    },
+    {
+      "title": "Itinerary 002",
+      "duration": "10",
+      "description": "Itinerary 002 desc"
+    }
+  ],
+  "googleCalendarTitle": "Event by SM",
+  "bannerUrl": "https://api.p3fy.com/api/containers/goodera-vv/download/41tdZ1kDoo7Vwras4TbgNdDK5Lyxh6Mwxmwa9MWoGv8TkTPCuMmWw6nH3i2nVP86_1642859555225cropped.jpg?redirect=false",
+  "deck": null
+}

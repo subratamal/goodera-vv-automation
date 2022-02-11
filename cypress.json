@@ -1,0 +1,21 @@
+{
+  "baseUrl": "http://localhost:1449",
+  "projectId": "7s5okt",
+  "integrationFolder": "cypress/tests",
+  "viewportHeight": 1000,
+  "viewportWidth": 1280,
+  "chromeWebSecurity": false,
+  "retries": {
+    "runMode": 2,
+    "openMode": 1
+  },
+  "env": {
+    "apiUrl": "https://stagingvvapi.goodera.com",
+    "mobileViewportWidthBreakpoint": 414,
+    "coverage": false,
+    "codeCoverage": {
+      "url": "http://localhost:3001/__coverage__"
+    }
+  },
+  "experimentalStudio": true
+}
